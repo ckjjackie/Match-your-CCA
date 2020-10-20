@@ -9,7 +9,7 @@ tech1 = input("I enjoy building and fixing things, and also enjoy solving techni
 
 
 
-outdoor2 = input("I'm good with tying knots and ropes, and am interested to learn more about survival skills.")
+
 
 music2 = input("I play a musical instrument well and am passionate about it. I like music too.")
 
